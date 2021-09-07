@@ -1,0 +1,165 @@
+*{
+  padding: 0;
+  margin: 0;
+  background: #EAEBEE;
+}
+.signup{
+  display:inline-block;
+  background: #fff;
+  padding-bottom:5px;
+}
+.btn-close{
+  background: #fff;
+  font-size:36px;
+  text-decoration: none;
+  margin: 0px 5px 0px 220px;
+}
+
+#container{
+  height: 100%;
+  width:350px;
+  margin:10px auto;
+  background:#fff;
+  border: 1px solid rgb(158, 150, 150);
+  box-shadow: 2px, 2px, 4px, #EEE;
+  padding: 15px;
+
+}
+.itsfree{
+  background: #fff;
+  padding-bottom:8px;
+  border-bottom:1px solid rgb(211, 211, 208);
+  margin:2px;
+  color:#424141;
+}
+#firstName{
+  width:150px;
+  padding:7px;
+  border-radius:6px;
+  margin-top:10px;
+  background: #fff;
+  border:1px solid rgb(158, 155, 15);
+  font-size: 15px;
+  letter-spacing:2px;
+}
+#same{
+  background: #fff;
+  padding:7px;
+  width: 318px;
+  border-radius:6px;
+  border: 1px solid rgb(158,155,15);
+  font-size: 15px;
+  letter-spacing:2px;
+  color:rgb(68, 62, 62);
+}
+.dateofbirth{
+  background: #fff;
+  margin-bottom:5px;
+  color:#424141;
+}
+#select{
+  padding:5px;
+  border: 1px solid rgb(158,155,15);
+  border-radius:6px;
+  font-size: 15px;
+  letter-spacing:2px;
+  color:#757575;
+  background: #fff;
+}
+.whyBirth a{
+  font-size:13px;
+  background:#fff;
+  color:red;
+}
+.male{
+  border: 1px solid rgb(158,155,15);
+  width:12px;
+  padding:5px; 
+  margin: 0px 0px 10px 12px;
+  background:#fff;
+}
+.maleGen{
+  border: 1px solid rgb(158,155,15);
+  width:12px;
+  padding:5px; 
+  background: #fff;
+}
+#form{
+  background:#fff;
+}
+.term p{
+  margin: 15px 0px 10px 0px;
+  font-size:11px;
+  background: #fff;
+}
+.term p a{
+  text-decoration:none;
+  color:red;
+}
+
+.term #but{
+  width:110px;
+  background:#fff;
+  padding:5px 7px;
+  font-size:17px;
+  font-weight:20px;
+  letter-spacing:2px;
+  background:#00A400;
+  color:#fff;
+  border-radius: 6px;
+  border:1px solid green;
+  box-shadow: 2px, 4px, 8px, green;
+  margin: 0px auto 20px;
+  display: block;
+  cursor: pointer;
+}
+.term #but:hover{
+  background:#4caf50;
+}
+.term{
+  background:#fff;
+}
+label{
+  background:#fff;
+}
+#last #button1{
+  width: 100px;
+  border-radius:7px;
+  font-size:18px;
+  padding:5px;
+  font-weight:1.5em;
+  /* background:#999999; */
+  border:1px solid #999;
+  box-shadow:3px, 4px, 10px, #000;
+  cursor: pointer;
+  border: 1px solid #000;
+}
+#last #button1:hover{
+  background:#238AE6;
+  color: #fff;
+}
+#last #button:hover{
+  background:#238AE6;
+  color: #fff;
+}
+button{
+  background:#fff;
+}
+#last #button{
+  width: 100px;
+  border-radius:7px;
+  font-size:18px;
+  padding:5px;
+  font-weight:1.5em;
+  /* background:#999999; */
+  border:1px solid #999;
+  box-shadow:3px, 4px, 10px, #000;
+  cursor: pointer;
+  margin-left:140px;
+  background:#fff;
+  border: 1px solid #000;
+}
+#last{
+  background:#fff;
+}
+

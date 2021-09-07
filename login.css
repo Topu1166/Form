@@ -1,0 +1,81 @@
+*{
+  padding:0px;
+  margin:0px;
+  background: #ddd;
+}
+#container{
+  width:350px;
+  height:425px;
+  margin: 20px auto;
+  background: #eeeeee;
+  padding:20px;
+}
+.call{
+  padding:7px;
+  margin-left:37px;
+  width: 250px;
+  border-radius: 6px;
+  border: 1px solid #013435;
+  letter-spacing: 2px;
+  font-size: 15px;
+  background-color: #eee;
+}
+.img{
+  margin: 0px 70px 0px;
+  display: block;
+  border-radius: 50%;
+}
+.login{
+  margin-left: 90px;
+  color:#013435;
+  text-transform:uppercase;
+  letter-spacing: 2px;
+  background: #eeeeee;
+}
+.sublog:hover{
+  background:#013435;
+  color:#fff;
+}
+.form{
+  background: #eeeeee;
+}
+.sublog{
+  padding:7px;
+  width:100px;
+  margin-left:125px;
+  border-radius:6px;
+  border: 1px solid #013435;
+  letter-spacing: 2px;
+  font-weight: 15px;
+  cursor: pointer;
+  background:#05CEAD;
+  color: #fff;
+}
+.button1{
+  padding:7px;
+  width:80px;
+  border-radius:6px;
+  border: 1px solid #013435;
+  letter-spacing: 1px;
+  background-color: #eeeeee;
+}
+.button1:hover{
+  background:#013435;
+  color: #fff;
+}
+.button:hover{
+  background:#013435;
+  color: #fff;
+}
+.button{
+  padding:7px;
+  width:80px;
+  margin-left: 185px;
+  border-radius:6px;
+  border: 1px solid #013435;
+  letter-spacing: 1px;
+  background:#eeeeee;
+}
+.but{
+  background-color: #eeeeee;
+}

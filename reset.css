@@ -1,0 +1,85 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  background:#0186E5 ;
+}
+#container{
+  width: 350px;
+  height: 400px;
+  margin:5% auto 10%;
+  background: #FFFFFF;
+  padding: 15px;
+  border-radius: 3px;
+}
+.resetpassform{
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 20px;
+}
+.forgot{
+  margin-top: 15px;
+  text-align: center;
+  color: #0186E5;
+  background: #FFFFFF;
+}
+.please{
+  text-align: center;
+  color: #000;
+  margin-bottom: 30px;
+  background: #FFFFFF;
+}
+.form{
+  text-align: center;
+  background: #FFFFFF;
+}
+.three{
+  padding: 7px;
+  width: 200px;
+  border-radius: 6px;
+  border: 1px solid #dddddd;
+  background: #FFFFFF;
+}
+.subm{
+  padding: 7px;
+  width: 150px;
+  border-radius: 7px;
+  border: 1px solid #dddddd;
+  background: #54ABBB;
+  margin-bottom: 40px;
+  color: #FFF;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+  cursor:pointer;
+}
+.subm:hover{
+  background: #688AB2;
+}
+.twobuttons{
+  background: #FFFFFF;
+}
+.footer{
+  background: #FFFFFF;
+  font-size: 13px;
+  margin-top: 20px;
+  text-align: center;
+}
+.signin{
+  background: #0186E5;
+  color: #FFF;
+  padding: 6px;
+  width: 80px;
+  border-radius: 6px;
+  border: 1px solid blue;
+  cursor: pointer;
+}
+.signin1{
+ margin-left: 180px;
+ background: #FFFFFF;
+ padding: 6px;
+ width: 80px;
+ border-radius: 6px;
+ background: #0186E5;
+ border: 1px solid blue;
+ color: #FFF;
+ cursor: pointer;
+}
